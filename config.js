@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '🤍', '💗', '💓'],  // Heart emojis
+        hearts: ['🤍', '🤍', '🤍', '🤍', '🤍'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the Happiest person in the world! 🎉💝💖💝🤍",
+        title: "Yay! I'm the Happiest person in the world! 🤍🤍🤍🤍",
         message: "Cant wait to give you a big warm hug and a huge kiss!",
-        emojis: "🎁🤍💖🤗🤍💝💋🤍"  // These will bounce around
+        emojis: "🤍🤍🤍🤍🤍"  // These will bounce around
     },
 
     // Color scheme for the website
